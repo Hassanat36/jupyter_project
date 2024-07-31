@@ -10,7 +10,7 @@
 - [Analysis](#analysis)
 
 ## INTRODUCTION
-This project analyzes the gross earnings of various artists from their tours. It includes data on the actual and adjusted gross earnings, number of shows, average gross per show, and more.
+Welcome to my project, where I conduct an exploratory data analysis (EDA) of artist tour gross earnings using Python. This project aims to uncover key insights into the financial performance of various artists' tours, including gross earnings, number of shows, and average earnings per show. By leveraging Python's data analysis and visualization libraries, I will demonstrate how to derive meaningful insights from complex datasets.This project analyzes the gross earnings of various artists from their tours. It includes data on the actual and adjusted gross earnings, number of shows, average gross per show, and more.
 
 ## INSTALLATION
 ### Install Anaconda
